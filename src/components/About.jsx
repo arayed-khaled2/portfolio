@@ -85,7 +85,7 @@ export default function About() {
             border: '2px dashed #ffd4b3', overflow: 'hidden',
           }}>
             <img
-              src="/photo.png"
+              src={import.meta.env.BASE_URL + 'photo.png'}
               alt="Khaled Arayed"
               style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '14px', display: 'block' }}
               onError={e => { e.target.style.display = 'none'; e.target.nextSibling.style.display = 'flex' }}

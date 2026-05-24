@@ -68,7 +68,7 @@ export default function Hero() {
           >
             Voir mes projets →
           </a>
-          <a href="/cv.pdf" download
+          <a href={import.meta.env.BASE_URL + 'cv.pdf'} download
             style={{
               display: 'inline-flex', alignItems: 'center', gap: '8px',
               background: btn2 ? '#f3f4f6' : '#ffffff', color: '#374151',
