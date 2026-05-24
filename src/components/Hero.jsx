@@ -46,7 +46,7 @@ export default function Hero() {
         </h1>
 
         <h2 style={{ fontSize: 'clamp(18px, 3vw, 28px)', fontWeight: 500, color: '#6b7280', marginBottom: '1.75rem', lineHeight: 1.4, maxWidth: '620px' }}>
-          Je construis des choses pour le web — et au-delà.
+          Je construis des choses pour le web et au-delà.
         </h2>
 
         <p style={{ color: '#6b7280', maxWidth: '580px', lineHeight: 1.8, fontSize: '1.05rem', marginBottom: '2.5rem' }}>
