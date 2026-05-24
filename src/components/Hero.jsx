@@ -50,7 +50,7 @@ export default function Hero() {
         </h2>
 
         <p style={{ color: '#6b7280', maxWidth: '580px', lineHeight: 1.8, fontSize: '1.05rem', marginBottom: '2.5rem' }}>
-          Étudiant en 1ère année à EPITECH Paris, formé par projets intensifs en développement fullstack, cybersécurité et data science. Expériences professionnelles en environnement exigeant (pédagogie par projet). À l'aise en environnement Linux, Git et Docker. Je recherche un stage pour travailler sur des projets concrets.
+          Étudiant en 1ère année à EPITECH Paris, formé par projets intensifs et exigeant en développement fullstack, cybersécurité et data science (pédagogie par projet). À l'aise en environnement Linux, Git et Docker. Je recherche un stage pour travailler sur des projets concrets.
         </p>
 
         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
