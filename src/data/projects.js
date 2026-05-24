@@ -28,7 +28,7 @@ export const projects = [
     description:
       'Exploitation of 10+ web vulnerabilities on OWASP Juice Shop in a controlled environment: SQL Injection, XSS, Broken Authentication and Broken Access Control. Complete technical documentation for each challenge including methodology, tools used (Burp Suite, DevTools), criticality level and remediation recommendations.',
     tech: ['Burp Suite', 'OWASP', 'SQL Injection', 'XSS', 'DevTools', 'Cybersecurity'],
-    github: 'https://github.com/arayed-khaled2/hack-and-juice-pentest',
+    github: 'https://github.com/arayed-khaled2/hack-and-juice',
     live: null,
     image: null,
   },
